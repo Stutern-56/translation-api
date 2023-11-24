@@ -31,3 +31,10 @@ Example Request:
   "text": "Hello, how are you?",
   "target_language": "es"
 }
+```
+Example Response:
+```json
+{
+  "translated_text": "Hola, ¿cómo estás?"
+}
+```
